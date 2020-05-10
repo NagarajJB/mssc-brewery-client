@@ -1,8 +1,0 @@
-com\njb\msscbreweryclient\web\model\BeerDto.class
-com\njb\msscbreweryclient\web\model\BeerDto$BeerDtoBuilder.class
-com\njb\msscbreweryclient\web\model\CustomerDto.class
-com\njb\msscbreweryclient\MsscBreweryClientApplication.class
-com\njb\msscbreweryclient\web\model\CustomerDto$CustomerDtoBuilder.class
-META-INF\spring-configuration-metadata.json
-com\njb\msscbreweryclient\ServletInitializer.class
-com\njb\msscbreweryclient\web\client\BreweryClient.class
